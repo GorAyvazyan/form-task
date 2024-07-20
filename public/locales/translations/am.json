@@ -1,0 +1,17 @@
+{
+  "userName": "Օգտատիրոջ անուն",
+  "userNameValidationMessage": "Օգտատիրոջ անունը պարտադիր է",
+  "email": "Էլ. փոստ",
+  "emailValidationMessage": "Էլ. փոստը պարտադիր է",
+  "wrongEmail": "Սխալ էլ. փոստ",
+  "subject": "Թեմա",
+  "subjectValidationMessage": "Թեմա դաշտը պարտադիր է",
+  "subjectShouldContain": "Թեմա դաշտը պետք է պարունակի առնվազն 4 նիշ",
+  "message": "Հաղորդագրություն",
+  "messageValidation": "Հաղորդագրություն դաշտը պարտադիր է",
+  "messageShouldContain": "Հաղորդագրություն դաշտը պետք է պարունակի առնվազն 4 նիշ",
+  "send": "Ուղարկել",
+  "success": "հաջողվեց",
+  "yourMessageWasSent": "Ձեր հաղորդագրությունն ուղարկվել է",
+  "close": "փակել"
+}

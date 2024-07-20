@@ -1,0 +1,17 @@
+{
+  "userName": "Username",
+  "userNameValidationMessage": "Username is required",
+  "email": "Email",
+  "emailValidationMessage": "Email is required",
+  "wrongEmail": "Wrong Email",
+  "subject": "Subject",
+  "subjectValidationMessage": "Subject is required",
+  "subjectShouldContain": "Subject should be of minimum 4 characters length",
+  "message": "Message",
+  "messageValidation": "Message is required",
+  "messageShouldContain": "Message should be of minimum 4 characters length",
+  "send": "Send",
+  "success": "Successful",
+  "yourMessageWasSent": "Your message was sent",
+  "close": "Close"
+}
